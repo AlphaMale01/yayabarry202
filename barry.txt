@@ -2,3 +2,4 @@ list of fruit!!
 mango
 banana
 watermelon
+pineapple
