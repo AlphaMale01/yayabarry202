@@ -1,6 +1,8 @@
-list of fruit!!
+list of fruit:
 mango
 banana
 watermelon
 pineapple
 guava
+cherry
+ananas
