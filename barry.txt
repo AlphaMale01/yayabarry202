@@ -6,3 +6,4 @@ pineapple
 guava
 cherry
 ananas
+cherry
